@@ -138,6 +138,7 @@ class CfgFunctions
 			file = "\Smith_Nuke\functions";
 			class moduleNuke {}};
 			class init{
+				//trying to get a script to run on start up
 				init = 1;
 			}
 		};
