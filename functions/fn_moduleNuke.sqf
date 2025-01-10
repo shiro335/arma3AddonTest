@@ -13,3 +13,6 @@ if (_activated) then
 };
 // Module function is executed by spawn command, so returned value is not necessary, but it is good practice.
 true;
+
+
+// copy past from module wiki
